@@ -1,14 +1,40 @@
-layout_spectrum: 0.4280344
+name: RBG001
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.2142857
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6020408
-  brandStrength: 0.9382384
-  lightness: 0.9403866
   brandColors:
     - '#394253'
     - '#F2C6BC'
     - '#AC919A'
     - '#B4CFC6'
     - '#916E77'
+  brandStrength: 0
+  lightness: 0.9403866
+  saturation: 0.6020408
   rhythmicContrast: 0.8899033
-typography_spectrum: 0.2142857
-name: RBG001
+purpose: []
