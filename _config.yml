@@ -1,26 +1,14 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-typography_spectrum: 0.2142857
+layout_spectrum: 0.4280344
 color:
   saturation: 0.6020408
   brandStrength: 0.9382384
-  rhythmicContrast: 0.8899033
+  lightness: 0.9403866
   brandColors:
     - '#394253'
     - '#F2C6BC'
     - '#AC919A'
     - '#B4CFC6'
     - '#916E77'
-  lightness: 0.9403866
-layout_spectrum: 0
+  rhythmicContrast: 0.8899033
+typography_spectrum: 0.2142857
 name: RBG001
