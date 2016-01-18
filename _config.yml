@@ -1,0 +1,29 @@
+name: RBG001
+favicon: null
+layout_spectrum: 0.4280344
+typography_spectrum: 0.2142857
+title: This site is called RBG001
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#394253'
+    - '#F2C6BC'
+    - '#AC919A'
+    - '#B4CFC6'
+    - '#916E77'
+  brandStrength: 0.9382384
+  lightness: 0.9403866
+  saturation: 0.6020408
+  rhythmicContrast: 0.8899033
+purpose: []
