@@ -34,7 +34,7 @@ color:
     - '#B4CFC6'
     - '#916E77'
   brandStrength: 0
-  lightness: 0.9403866
-  saturation: 0.6020408
-  rhythmicContrast: 0.8899033
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []
