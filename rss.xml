@@ -4,8 +4,15 @@
         <description><![CDATA[RBG001]]></description>
         <link>https://thegrid.ai/rbg001/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 18:45:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 22:33:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rbg001/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I really want to learn how to explain Yeoman, Bower, Grunt, and NPM to people that don't understand them. Nobody explains those things well. And GIT too. Nobody can explain GIT worth a shit.</p>]]></description>
+            <link>https://thegrid.ai/rbg001/i-really-want-to-learn-how-to-explain-yeoman-bower-grunt/index.html</link>
+            <guid isPermaLink="false">1fbd6466-474c-41b6-a187-fd1bc49e7e2b</guid>
+            <pubDate>Tue, 12 Apr 2016 22:33:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a730d93a-6e62-4203-aace-35176d4aaee9.jpg">]]></description>
