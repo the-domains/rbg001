@@ -1,32 +1,4 @@
-name: RBG001
-favicon: null
-layout_spectrum: 0.62711
-typography_spectrum: 0.14141
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-title: This is my title. There are many like it but this one is mine.
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#2c2e3d'
@@ -36,6 +8,11 @@ color:
     - '#9bafa7'
   brandStrength: 0.5
   lightness: 0.5
-  saturation: 0.5
   rhythmicContrast: 0.5
+  saturation: 0.5
+cta: {}
+layout_spectrum: 0.62711
+name: RBG001
+opengraph: {}
 purpose: []
+typography_spectrum: 0.774122
